@@ -7,6 +7,11 @@ form {
   line-height: 27px;
 }
 
+.left {
+  display:left;
+  padding: 90px;
+}
+
 h2 {
   font-size: 20px;
 }
